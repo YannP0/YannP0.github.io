@@ -237,14 +237,6 @@ a {
 
 }
 
-.cercle {
-  height: 0px;
-  width: 0px;
-  border: 200px solid white;
-  border-radius: 50%;
-
-}
-
 .apropos-2 {
   padding-left: 141px;
   margin-top: 240px;
@@ -787,14 +779,6 @@ footer {
     grid-area: colonne1-2;
   }
   
-  .cercle {
-    height: 0px;
-    width: 0px;
-    border: 200px solid white;
-    border-radius: 50%;
-
-  }
-  
   .apropos-2 {
     padding-left: 0px;
     margin-top: 0px;
@@ -962,11 +946,6 @@ footer {
 
   .position-photo {
     grid-area: pose1;
-  }
-  .cercle {
-    border: 100px solid white;
-
-
   }
 
   .apropos-2 {
